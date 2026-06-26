@@ -8,8 +8,7 @@
 * L_Main (Level)
 
 ### What Was Built
-A playable first-person level was created using the Unreal Engine 5 editor. The level was blocked out using BSP brushes and Static Mesh actors from the White Castle asset pack, including walls, archways, floors, and staircase pieces. A landscape or terrain base was added to give the level ground to stand on. Foliage and props were placed throughout the level to add visual detail and make the space feel inhabited. A Player Start actor was placed in the level to define where the player spawns when the game begins.
-
+A playable first-person level was created using the Unreal Engine 5 editor. The core environment layout was established using the SM_Scene static mesh asset from the White Castle pack to form the main structural design. The level was further blocked out and refined using BSP brushes and additional Static Mesh actors, including walls, archways, floors, and staircase pieces. A landscape or terrain base was added to give the level ground to stand on. Foliage and props were placed throughout the level to add visual detail and make the space feel inhabited. A Player Start actor was placed in the level to define where the player spawns when the game begins.
 Staircase navigation was solved by placing Blocking Volume actors over the stair meshes and rotating them to act as invisible ramps, allowing the player to walk up and down the steps smoothly using the character's built-in movement system.
 
 ### Completion Condition
