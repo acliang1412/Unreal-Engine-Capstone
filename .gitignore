@@ -1,0 +1,35 @@
+# Unreal Engine Build and Temporary Files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.xcodeproj
+*.xcworkspace
+
+# Built configuration files (keep custom source configs, ignore generated ones)
+Config/Tags/
+Config/Generated/
+
+# User-specific configuration files
+Content/Developers/
+Config/User*.ini
+
+# Auto-save and Backup files
+Source/Backup/
+
+# Crash reports
+CrashReportClient/
+
+# External / Third-party plugins or generated source
+Plugins/Developer/
+
+# OS-specific temporary files
+.DS_Store
+Thumbs.db
