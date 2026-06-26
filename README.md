@@ -13,6 +13,9 @@ Staircase navigation was solved by placing Blocking Volume actors over the stair
 
 ### Completion Condition
 The level was complete when a player could spawn at the Player Start, walk through the environment, navigate up and down staircases, and explore the space without falling through the floor or getting stuck on geometry.
+<img width="1928" height="1040" alt="image" src="https://github.com/user-attachments/assets/4041cbf5-0dfa-41e6-b6be-a4ea770cc77d" />
+<img width="1449" height="885" alt="image" src="https://github.com/user-attachments/assets/46ad993e-55eb-4636-8ce5-ebc568e7deda" />
+<img width="647" height="656" alt="image" src="https://github.com/user-attachments/assets/87c5f966-81a9-483d-b791-5f3cfc851c1b" />
 
 ---
 
@@ -55,6 +58,7 @@ The HUD was complete when the health bar and collectible counter both appeared o
 
 ### Completion Condition
 The story was complete when picking up a coin incremented the HUD counter and played a sound, and standing in a Pain Volume caused the health bar to visibly decrease over time.
+<img width="1344" height="323" alt="image" src="https://github.com/user-attachments/assets/5f9ce061-37c1-4b6b-b020-f7b5a4b134ff" />
 
 ---
 
@@ -78,6 +82,8 @@ A separate Game Mode called BP_MainMenuGameMode was created for the menu level. 
 
 ### Completion Condition
 The story was complete when the game launched into the main menu, the Play button successfully loaded L_Main, and both the Victory and Game Over screens displayed with working buttons.
+<img width="235" height="222" alt="image" src="https://github.com/user-attachments/assets/e54fa5cc-1106-476c-b90c-3bd0b21daa0f" />
+<img width="371" height="262" alt="image" src="https://github.com/user-attachments/assets/b813ab85-67e9-4914-8a10-a43e3aeaf5bc" />
 
 ---
 
