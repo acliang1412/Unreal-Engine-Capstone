@@ -32,6 +32,7 @@ WBP_HUD was built as a UMG Widget Blueprint containing a health progress bar and
 
 ### Completion Condition
 The HUD was complete when the health bar and collectible counter both appeared on screen immediately when the level loaded, and the player could move and look around freely without the mouse cursor interfering.
+<img width="1928" height="1040" alt="image" src="https://github.com/user-attachments/assets/0dd58e7b-6b53-4e4c-81b8-1c1fce6d9c64" />
 
 ---
 
